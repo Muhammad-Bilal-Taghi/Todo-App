@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: coral;
+    text-decoration: none;
+    margin: 10% auto;
+   
+    
+}
+
+.hab {
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 5px;
+    width: 40%;
+    margin-left: 25%;
+    
+}
+
+#todo {
+    border: 2px solid green;
+    
+}
+
+
